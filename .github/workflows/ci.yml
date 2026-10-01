@@ -2,7 +2,7 @@ name: CI – FastAPI
 
 on:
   pull_request:
-    branches: [main, dev]
+    branches: [main, develop]
   push:
     branches: [feature/examen]
 
